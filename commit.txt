@@ -1,0 +1,5 @@
+git status
+git add "*.ipynb" "*.py" README.md pyproject.toml uv.lock the-verdict.txt
+git status
+git commit -m "your message"
+git push origin main
